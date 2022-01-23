@@ -3,7 +3,7 @@
 ### I'm a Master Diagnostic Automotive Technician transitioning to Software Engineering
 - January 2022 I started the Springboard Software Engineering Career Track course after completing their foundations course. 
 - I'm currently learning everything I can!
-- I love building things, fixing things and figuring out how things work!
+- I love building, fixing and figuring out how things work!
 - 2022 Goals: Complete the Springboard Software Engineering course and start working, learning and growing with a new company. 
 - Any questions? Please reach out to me! [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
