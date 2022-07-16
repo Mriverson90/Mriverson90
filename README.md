@@ -19,6 +19,8 @@
 <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="jQuery" width="28px" src="https://ivazz.com/wp-content/uploads/2021/05/jquery-1.png" />
 <img align="left" alt="Jasmine" width="28px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" />
+<img align="left" alt="SQL" width="28px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1" />
+<img align="left" alt="SQLAlchemy" width="28px" src="https://camo.githubusercontent.com/4074a39332ef9987ae3ee65940b65cf77e04580c9791b7593f4122351f630517/68747470733a2f2f6873746f2e6f72672f67657470726f2f686162722f706f73745f696d616765732f3434622f6432632f6339382f34346264326363393866326361366535643638396632316337373263653536652e706e67" />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/michael-iverson-software-engineer/
